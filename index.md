@@ -5,8 +5,10 @@
 ### Unity
 
 [The Path of The Unseen](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+<img src="images/1.png"/>
+<img src="images/2.png"/>
+<img src="images/3.png"/>
+<img src="images/4.png"/>
 <p>The Path Of The Unseen is the project I have been working on these last weeks. 
   <br>This game is about understanding the difficulties some people with mental illnesses go through<p>
 
